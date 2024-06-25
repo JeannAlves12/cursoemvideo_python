@@ -1,0 +1,5 @@
+Jeann;20
+Alex;50
+Julia;15
+Cris;43
+Mi;43
